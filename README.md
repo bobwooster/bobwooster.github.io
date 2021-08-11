@@ -1,15 +1,15 @@
-## Bob Wooster
+# Bob Wooster
 Data science portfolio
 
-### Portfolio
+## Portfolio
 
 1. TBA
 2. TBA
 
-### About me
+## About me
 
 Post resume
 
-### Links
+## Links
 
 TBA
