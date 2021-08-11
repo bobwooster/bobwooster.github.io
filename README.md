@@ -1,8 +1,6 @@
 ## Bob Wooster
 Data science portfolio
 
-TBA
-
 ### Portfolio
 
 1. TBA
