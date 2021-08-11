@@ -6,9 +6,9 @@ Data science portfolio
 1. TBA
 2. TBA
 
-## About me
+## About
 
-Post resume
+TBA
 
 ## Links
 
