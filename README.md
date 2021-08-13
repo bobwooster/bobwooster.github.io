@@ -3,8 +3,13 @@ Data science portfolio
 
 ## Portfolio
 
-1. TBA
-2. TBA
+### 
+
+### MLB strikeout rates and pitch efficieny
+
+### Fun with Markov Chains
+
+###
 
 ## About
 
