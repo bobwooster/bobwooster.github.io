@@ -6,7 +6,7 @@ Welcome to my GitHub page!
 
 I'm a data scientist and mathematician.  My interests are probability (with measure theory) and stochastic processes.  I enjoy building RShiny applications and simulations of random processes.
 
-Here is my [CV](https://github.com/bobwooster/my_cv/raw/main/resume_wooster.pdf).
+Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster/my_cv/raw/main/resume_wooster.pdf).
 
 ## Portfolio
 
