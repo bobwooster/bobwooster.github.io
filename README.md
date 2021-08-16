@@ -2,7 +2,7 @@ Welcome to my GitHub page!
 
 # About
 
-I'm a data scientist and mathematician.  My interests are probability (with measure theory) and stochastic processes.  I enjoy building RShiny applications and simulations of random processes.
+I'm a data scientist and mathematician.  My interests are probability (with measure theory), stochastic processes, data science, and mathematical modelling.  I enjoy building [RShiny](https://shiny.rstudio.com) applications, agent-base models in [NetLogo](https://ccl.northwestern.edu/netlogo/), and simulations of random processes.
 
 Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster/my_cv/raw/main/resume_wooster.pdf).
 
@@ -30,11 +30,11 @@ In progress
 
 ![](https://github.com/bobwooster/bobwooster.github.io/raw/main/images/gamblers_ruin.png)
 
-* Demonstrates the [*Gambler's Ruin*](https://en.wikipedia.org/wiki/Gambler%27s_ruin) concept
+* Demonstrates the [Gambler's Ruin](https://en.wikipedia.org/wiki/Gambler%27s_ruin) concept
 * Allows the user to adjust the probability of winning an individual game, and the starting and target bankrolls of the gambler
 * Simulates a random walk with the user-specified parameters
 * Gives the theoretical probability of going broke, along with the expected number of plays before either winning or going broke
-* Written as a demonstration for a talk on [**_martingales_**](https://en.wikipedia.org/wiki/Martingale_(probability_theory))
+* Written as a demonstration for a talk on [martingales](https://en.wikipedia.org/wiki/Martingale_(probability_theory))
 
 ## [Undamped harmonic oscillator demo in RShiny](https://bobwooster.shinyapps.io/undamped_harmonic_oscillator/)
 
@@ -49,6 +49,7 @@ In progress
 ### Math related
 
 * [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
+* [NetLogo](https://ccl.northwestern.edu/netlogo/) software for agent-based modelling
 
 ### Data Science
 
@@ -57,8 +58,8 @@ In progress
 
 ### R stuff
 
-* [tidyverse](https://www.tidyverse.org)
-* [tidymodels](https://www.tidymodels.org)
+* [tidyverse](https://www.tidyverse.org) metapackage for all phases of the data science pipeline
+* [tidymodels](https://www.tidymodels.org) metapackage for building and evaluating statistical models
 
 ### Python stuff
 
