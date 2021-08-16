@@ -68,3 +68,4 @@ In progress
 ### Books
 
 * [Gates of Fire](https://stevenpressfield.com/books/gates-of-fire/) by Steven Pressfield
+* [Introduction to Statistical Learning](https://www.statlearning.com) by James, Witten, Hastie, Tibshirani
