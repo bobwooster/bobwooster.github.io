@@ -30,11 +30,11 @@ In progress
 
 ![](https://github.com/bobwooster/bobwooster.github.io/raw/main/images/gamblers_ruin.png)
 
-* Demonstrates the [Gambler's Ruin](https://en.wikipedia.org/wiki/Gambler%27s_ruin) concept
+* Demonstrates the probability concept of [Gambler's Ruin](https://en.wikipedia.org/wiki/Gambler%27s_ruin)
 * Allows the user to adjust the probability of winning an individual game, and the starting and target bankrolls of the gambler
 * Simulates a random walk with the user-specified parameters
 * Gives the theoretical probability of going broke, along with the expected number of plays before either winning or going broke
-* Written as a demonstration for a talk on [martingales](https://en.wikipedia.org/wiki/Martingale_(probability_theory))
+* Written as an interactive demo for a talk on [martingales](https://en.wikipedia.org/wiki/Martingale_(probability_theory))
 
 ## [Undamped harmonic oscillator demo in RShiny](https://bobwooster.shinyapps.io/undamped_harmonic_oscillator/)
 
