@@ -1,16 +1,14 @@
-# Bob Wooster
-
 Welcome to my GitHub page!
 
-## About
+# About
 
 I'm a data scientist and mathematician.  My interests are probability (with measure theory) and stochastic processes.  I enjoy building RShiny applications and simulations of random processes.
 
 Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster/my_cv/raw/main/resume_wooster.pdf).
 
-## Portfolio
+# Portfolio
 
-### [Using tidymodels to analyze heart failure data](https://www.kaggle.com/bobwooster3/analyzing-heart-failure-data-with-the-tidyverse)
+## [Using tidymodels to analyze heart failure data](https://www.kaggle.com/bobwooster3/analyzing-heart-failure-data-with-the-tidyverse)
 
 * Exploratory data analysis using `tidyverse` packages
 * Built logistic regression, decision tree, support vector machine, random forest, and boosted tress classification models using `tidymodels`
@@ -20,15 +18,15 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 
 <iframe src="https://www.kaggle.com/embed/bobwooster3/analyzing-heart-failure-data-with-the-tidyverse?kernelSessionId=71849788" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Analyzing heart failure data with the tidyverse"></iframe>
 
-### MLB strikeout rates and pitch efficiency
+## MLB strikeout rates and pitch efficiency
 
 In progress
 
-### Fun with Markov Chains
+## Fun with Markov Chains
 
 In progress
 
-## Links
+# Links
 
 ### Math related
 
