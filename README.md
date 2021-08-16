@@ -2,7 +2,7 @@ Welcome to my GitHub page!
 
 # About
 
-I'm a data scientist and mathematician.  My interests are probability (with measure theory), stochastic processes, data science, and mathematical modelling.  I enjoy building [RShiny](https://shiny.rstudio.com) applications, agent-base models in [NetLogo](https://ccl.northwestern.edu/netlogo/), and simulations of random processes.
+I'm a data scientist and mathematician.  My interests are probability (with measure theory), stochastic processes, data science, and mathematical modelling.  I enjoy building [RShiny](https://shiny.rstudio.com) applications, agent-based models in [NetLogo](https://ccl.northwestern.edu/netlogo/), and simulations of random processes.
 
 Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster/my_cv/raw/main/resume_wooster.pdf).
 
