@@ -9,7 +9,7 @@ Data science portfolio
 
 <iframe src="https://www.kaggle.com/embed/bobwooster3/analyzing-heart-failure-data-with-the-tidyverse?kernelSessionId=71849788" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Analyzing heart failure data with the tidyverse"></iframe>
 
-### MLB strikeout rates and pitch efficieny
+### MLB strikeout rates and pitch efficiency
 
 In progress
 
