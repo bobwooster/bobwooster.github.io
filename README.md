@@ -18,6 +18,16 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 
 <iframe src="https://www.kaggle.com/embed/bobwooster3/analyzing-heart-failure-data-with-the-tidyverse?kernelSessionId=71849788" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Analyzing heart failure data with the tidyverse"></iframe>
 
+## [Undamped harmonic oscillator Shiny](https://bobwooster.shinyapps.io/undamped_harmonic_oscillator/)
+
+![](https://github.com/bobwooster/bobwooster.github.io/raw/main/images/harmonic_oscillator.jpg)
+
+* Created as a classroom demo for a differential equations class I taught
+* Allows the user adjust parameters affecting the natural frequency of a spring-mass system, as well as a periodic forcing term
+* The application shows the response of the system, including occurences of the phenomena of beats and resonance.
+
+
+
 ## MLB strikeout rates and pitch efficiency
 
 In progress
