@@ -66,7 +66,8 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
   * [R for Data Science](https://r4ds.had.co.nz) by Hadley Wickham and Garrett Grolemund
   * [Mastering Shiny](https://mastering-shiny.org) by Hadley Wickham
   * [Tidy Modeling with R](https://www.tmwr.org) by Max Kuhn and Julia Silge
-- Meta-packages
+- Software
+  * [RStudio](https://www.rstudio.com) ultimate IDE for R, also supports Python, Stan, SQL
   * [tidyverse](https://www.tidyverse.org) metapackage for all phases of the data science pipeline
   * [tidymodels](https://www.tidymodels.org) metapackage for building and evaluating statistical models
 
