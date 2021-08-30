@@ -16,7 +16,7 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 * Allows the user to adjust the probability of winning an individual game, and the starting and target bankrolls of the gambler
 * Gives the probability of going broke, along with the expected number of plays before either winning or going broke
 * Simulates random walks with the user-specified parameters
-* Tracks proportion of times gambler wins or goes broke, and number of plays for each random walk
+* Tracks proportion of times the gambler wins or goes broke, and number of plays for each random walk
 * Allows the user to download the simulated data
 * Written as an interactive demo for a talk on [martingales](https://en.wikipedia.org/wiki/Martingale_(probability_theory)) in 2018 and updated in 2021
 
