@@ -14,7 +14,7 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 
 * Demonstrates the probability concept of [Gambler's Ruin](https://en.wikipedia.org/wiki/Gambler%27s_ruin)
 * Allows the user to adjust the probability of winning an individual game, and the starting and target bankrolls of the gambler
-* Gives the theoretical probability of going broke, along with the expected number of plays before either winning or going broke
+* Gives the probability of going broke, along with the expected number of plays before either winning or going broke
 * Simulates random walks with the user-specified parameters
 * Tracks proportion times gambler wins or goes broke, and number of plays for each random walk
 * Allows the user to download the data they simulated
