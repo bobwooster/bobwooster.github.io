@@ -14,9 +14,11 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 
 * Demonstrates the probability concept of [Gambler's Ruin](https://en.wikipedia.org/wiki/Gambler%27s_ruin)
 * Allows the user to adjust the probability of winning an individual game, and the starting and target bankrolls of the gambler
-* Simulates a random walk with the user-specified parameters
 * Gives the theoretical probability of going broke, along with the expected number of plays before either winning or going broke
-* Written as an interactive demo for a talk on [martingales](https://en.wikipedia.org/wiki/Martingale_(probability_theory))
+* Simulates random walks with the user-specified parameters
+* Tracks proportion times gambler wins or goes broke, and number of plays for each random walk
+* Allows the user to download the data they simulated
+* Written as an interactive demo for a talk on [martingales](https://en.wikipedia.org/wiki/Martingale_(probability_theory)) in 2018 and updated in 2021
 
 ## [Using tidymodels to analyze heart failure data](https://www.kaggle.com/bobwooster3/analyzing-heart-failure-data-with-the-tidyverse)
 
