@@ -44,7 +44,8 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 
 * [Stochastic Processes](https://www.amazon.com/gp/product/B00E3UR18W/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) by Rich Bass
 * [A Course in Probability Theory](https://www.amazon.com/Course-Probability-Theory-Third/dp/0121741516) by Kai Lai Chung
-* [Complex Variables](https://www.amazon.com/Complex-Variables-Dover-Books-Mathematics/dp/0486613887)
+* [Real and Complex Analysis](https://www.amazon.com/Real-Complex-Analysis-Higher-Mathematics/dp/0070542341) by Walter Rudin
+* [Complex Variables](https://www.amazon.com/Complex-Variables-Dover-Books-Mathematics/dp/0486613887) by Francis Flanigan
 * [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
 
 ### Data Science
@@ -76,3 +77,4 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 ### Other books
 
 * [Gates of Fire](https://stevenpressfield.com/books/gates-of-fire/) by Steven Pressfield
+* [Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Ultimate-Hitchhikers-Guide-Galaxy/dp/0345453743) by Douglas Adams
