@@ -40,27 +40,39 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 
 # Links
 
-### Math related
+### Math
 
+* [Stochastic Processes](https://www.amazon.com/gp/product/B00E3UR18W/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0) by Rich Bass
+* [A Course in Probability Theory](https://www.amazon.com/Course-Probability-Theory-Third/dp/0121741516) by Kai Lai Chung
+* [Complex Variables](https://www.amazon.com/Complex-Variables-Dover-Books-Mathematics/dp/0486613887)
 * [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
-* [NetLogo](https://ccl.northwestern.edu/netlogo/) software for agent-based modelling
 
 ### Data Science
 
+* [Introduction to Statistical Learning](https://www.statlearning.com) by James, Witten, Hastie, Tibshirani
+* [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576) by Hastie, Tibshirani, Friedman
 * [Kaggle](https://www.kaggle.com)
 * [Datacamp](https://www.datacamp.com)
 
+### Modeling
+
+* [NetLogo](https://ccl.northwestern.edu/netlogo/) software for agent-based modelling
+
 ### R stuff
 
-* [tidyverse](https://www.tidyverse.org) metapackage for all phases of the data science pipeline
-* [tidymodels](https://www.tidymodels.org) metapackage for building and evaluating statistical models
+- Books
+  * [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
+  * [R for Data Science](https://r4ds.had.co.nz) by Hadley Wickham and Garrett Grolemund
+  * [Mastering Shiny](https://mastering-shiny.org) by Hadley Wickham
+  * [Tidy Modeling with R](https://www.tmwr.org) by Max Kuhn and Julia Silge
+- Meta-packages
+  * [tidyverse](https://www.tidyverse.org) metapackage for all phases of the data science pipeline
+  * [tidymodels](https://www.tidymodels.org) metapackage for building and evaluating statistical models
 
 ### Python stuff
 
 * Corey Schafer's [YouTube channel](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g) with excellent instructional videos
 
-### Books
+### Other books
 
-* [A Course in Probability Theory](https://www.amazon.com/Course-Probability-Theory-Third/dp/0121741516) by Kai Lai Chung
 * [Gates of Fire](https://stevenpressfield.com/books/gates-of-fire/) by Steven Pressfield
-* [Introduction to Statistical Learning](https://www.statlearning.com) by James, Witten, Hastie, Tibshirani
