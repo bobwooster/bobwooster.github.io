@@ -36,7 +36,7 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 
 * Created as a classroom demonstration for a differential equations class I taught
 * Allows the user adjust parameters affecting the natural frequency of a spring-mass system, as well as a periodic forcing term
-* The application shows the response of the system, including occurences of the phenomena of beats and resonance.
+* Shows the response of the system, including occurences of the phenomena of beats and resonance
 
 # Links
 
