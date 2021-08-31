@@ -10,7 +10,7 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 
 ## [Gambler's ruin simulation in RShiny](https://bobwooster.shinyapps.io/gamblers_ruin/)
 
-![](https://github.com/bobwooster/bobwooster.github.io/raw/main/images/gamblers_ruin.png)
+![](https://github.com/bobwooster/gamblers_ruin/raw/main/img/gamblers_ruin.png)
 
 * Demonstrates the probability concept of [Gambler's Ruin](https://en.wikipedia.org/wiki/Gambler%27s_ruin)
 * Allows the user to adjust the probability of winning an individual game, and the starting and target bankrolls of the gambler
