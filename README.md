@@ -1,5 +1,3 @@
-### Welcome to my GitHub page!
-
 # About
 
 I'm a data scientist and mathematician.  My interests are (measure-theoretic) probability, stochastic processes, data science, and mathematical modelling.  I enjoy building [RShiny](https://shiny.rstudio.com) applications, agent-based models in [NetLogo](https://ccl.northwestern.edu/netlogo/), and simulations of random processes.
