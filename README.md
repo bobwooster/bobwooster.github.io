@@ -24,8 +24,6 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 * Build logistic regression, decision tree, support vector machine, random forest, and boosted tress classification models using `tidymodels` workflows
 * Compare model performance using 10-fold cross validation
 
-<iframe src="https://www.kaggle.com/embed/bobwooster3/analyzing-heart-failure-data-with-the-tidyverse?rvi=1&kernelSessionId=71849788" height="800" style="margin: 0 auto; width: 100%; max-width: 950px;" frameborder="0" scrolling="auto" title="Analyzing heart failure data with the tidyverse"></iframe>
-
 ## [Undamped harmonic oscillator demo in RShiny](https://bobwooster.shinyapps.io/undamped_harmonic_oscillator/)
 
 ![](https://github.com/bobwooster/bobwooster.github.io/raw/main/images/harmonic_oscillator.png)
