@@ -42,7 +42,7 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 * [Complex Variables](https://www.amazon.com/Complex-Variables-Dover-Books-Mathematics/dp/0486613887) by Francis Flanigan
 * [Mathologer](https://www.youtube.com/channel/UC1_uAIS3r8Vu6JjXWvastJg)
 
-### Data Science
+### Statistics and Data Science
 
 * [Introduction to Statistical Learning](https://www.statlearning.com) by James, Witten, Hastie, Tibshirani
 * [The Elements of Statistical Learning](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576) by Hastie, Tibshirani, Friedman
