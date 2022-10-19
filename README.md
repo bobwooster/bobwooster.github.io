@@ -1,10 +1,18 @@
 # About
 
-I'm a data scientist and mathematician.  My interests are (measure-theoretic) probability, stochastic processes, data science, and mathematical modelling.  I enjoy building [RShiny](https://shiny.rstudio.com) applications, agent-based models in [NetLogo](https://ccl.northwestern.edu/netlogo/), and simulations of random processes.
+I'm a lecturer in the Department of Statistics & Data Science at Yale University.  My interests are (measure-theoretic) probability, stochastic processes, data science, and mathematical modelling.  I enjoy building [RShiny](https://shiny.rstudio.com) applications, agent-based models in [NetLogo](https://ccl.northwestern.edu/netlogo/), and simulations of random processes.
 
 Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster/my_cv/raw/main/resume_wooster.pdf).
 
 # Portfolio
+
+## [Exploring discrete probability distributions in RShiny](https://bobwooster.shinyapps.io/distributions/)
+
+![](https://github.com/bobwooster/gamblers_ruin/raw/main/img/discrete_dist.png)
+
+* Explore common discrete probability distributions
+* Allows user to set input parameters
+* Shows PMF, CDF, mean, variance
 
 ## [Gambler's ruin simulation in RShiny](https://bobwooster.shinyapps.io/gamblers_ruin/)
 
