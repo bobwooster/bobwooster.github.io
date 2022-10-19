@@ -8,7 +8,7 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 
 ## [Exploring discrete probability distributions in RShiny](https://bobwooster.shinyapps.io/distributions/)
 
-![](https://github.com/bobwooster/gamblers_ruin/raw/main/img/discrete_dist.png)
+![](https://github.com/bobwooster/discrete-probability-distrubitions-shiny-app/raw/main/img/discrete_dist.png)
 
 * Explore common discrete probability distributions
 * Allows user to set input parameters
