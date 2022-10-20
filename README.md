@@ -6,13 +6,13 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 
 # Portfolio
 
-## [Exploring discrete probability distributions in RShiny](https://bobwooster.shinyapps.io/distributions/)
+## [Exploring discrete probability distributions in RShiny](https://bobwooster.shinyapps.io/probability-distributions/)
 
-![](https://github.com/bobwooster/discrete-probability-distrubitions-shiny-app/raw/main/img/discrete_dist.png)
+![](https://github.com/bobwooster/probability-distributions/raw/main/img/discrete_dist.png)
 
-* Explore common discrete probability distributions
+* Explore common probability distributions
 * Allows user to set input parameters
-* Shows PMF, CDF, mean, variance
+* Shows PMF/PDF, CDF, mean, variance
 
 ## [Gambler's ruin simulation in RShiny](https://bobwooster.shinyapps.io/gamblers_ruin/)
 
