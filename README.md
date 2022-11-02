@@ -6,7 +6,7 @@ Here is my [CV](https://docs.google.com/viewer?url=https://github.com/bobwooster
 
 # Portfolio
 
-## [Exploring discrete probability distributions in RShiny](https://bobwooster.shinyapps.io/probability-distributions/)
+## [Explore common probability distributions in RShiny](https://bobwooster.shinyapps.io/probability-distributions/)
 
 ![](https://github.com/bobwooster/probability-distributions/raw/main/img/discrete_dist.png)
 
